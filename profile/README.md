@@ -1,6 +1,6 @@
 ## Welcome to JuliaFewBody
 
-This organization revolves around Julia code to solve quantum mechanical few-body systems. This is the hierarchy of packages we plan to publish:
+This organization revolves around Julia code to solve quantum mechanical few-body problems. This is the hierarchy of packages we plan to publish:
 
 ```mermaid
 ---
